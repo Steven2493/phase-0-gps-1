@@ -1,3 +1,4 @@
+
 # phase-0-gps-1
 ##
 **history**
@@ -10,8 +11,9 @@
    -*10*  git push origin master - Pushes it up back to github
    -*11*  git checkout -b add-command-log - Creates branch 
    -*13* subl README.md - opens file in sublime
-   -*14*  `history`
+
 
    [this is a link](www.google.com)
 
 git@github.com:Steven2493/phase-0-gps-1.git
+
