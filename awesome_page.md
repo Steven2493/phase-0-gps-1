@@ -10,7 +10,7 @@
    -*10*  git push origin master - Pushes it up back to github
    -*11*  git checkout -b add-command-log - Creates branch 
    -*13* subl README.md - opens file in sublime
-   -*14*  `history`
+
 
    [this is a link](www.google.com)
 
